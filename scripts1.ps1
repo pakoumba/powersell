@@ -1,0 +1,3 @@
+﻿$variable = "powershell"
+
+$variable
